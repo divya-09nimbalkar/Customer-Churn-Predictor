@@ -5,7 +5,6 @@ Predicts whether a telecom customer will churn (leave)
 using classification models. Includes ROC-AUC analysis
 and feature importance.
 
-Author: Divya Nimbalkar
 Tech Stack: Python, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn
 """
 
